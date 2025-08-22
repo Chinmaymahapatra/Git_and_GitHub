@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "password123",
+    "age": 25,
+    "joined_date": "2025-01-10"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "password": "securePass456",
+    "age": 30,
+    "joined_date": "2025-02-14"
+  },
+  {
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "password": "charlie789",
+    "age": 28,
+    "joined_date": "2025-03-05"
+  },
+  {
+    "name": "Diana Prince",
+    "email": "diana.prince@example.com",
+    "password": "wonderWoman2025",
+    "age": 27,
+    "joined_date": "2025-04-18"
+  },
+  {
+    "name": "Ethan Hunt",
+    "email": "ethan.hunt@example.com",
+    "password": "missionImpossible!",
+    "age": 35,
+    "joined_date": "2025-05-22"
+  }
+]
