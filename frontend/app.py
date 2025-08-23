@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import requests
 
-BACKEND_URL=""
+BACKEND_URL="http://127.0.0.1:9000"
 
 app = Flask(__name__)
 
